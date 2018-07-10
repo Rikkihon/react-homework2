@@ -1,0 +1,3 @@
+[submodule "noteworx-react-mongod2"]
+	path = noteworx-react-mongod2
+	url = https://github.com/drminnaar/noteworx-react-mongodb
