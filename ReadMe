@@ -1,0 +1,4 @@
+This uses the MERN react app built by drminnaar. His repo is here, please follow his read me to install.
+https://github.com/drminnaar/noteworx-react-mongodb
+
+I attempted to use the NYTimes webscraper API to then add the headlines into his file. This is a definite work in progress. 
